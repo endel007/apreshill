@@ -1,5 +1,5 @@
 baseurl = "https://alison.rbind.io/"
-title = "Alison Presmanes Hill"
+title = "Enrique J. De La Hoz."
 copyright = "&copy; 2017 Alison Presmanes Hill"
 theme = "hugo-academic"
 enableEmoji = true
@@ -10,7 +10,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-99209585-1"
+#googleAnalytics = "UA-99209585-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -20,8 +20,8 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Alison Presmanes Hill"
-  description = "A site about R"
+  name = "Enrique J. De La Hoz D."
+  description = "A site Data Science"
   role = "Associate Professor, Assistant Director of the Center for Spoken Language Understanding"
   organization = "Oregon Health & Science University (OHSU)"
   organization_url = "http://www.ohsu.edu/xd/"
