@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "/"
 title = "Enrique J. De La Hoz."
 copyright = "&copy; 2017 Alison Presmanes Hill"
 theme = "hugo-academic"
